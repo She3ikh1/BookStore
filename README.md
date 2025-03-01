@@ -3,11 +3,17 @@ A simple Bookstore Management System built with React, Node.js, Express, and Mon
 
 🚀 Features
 ✅ Add Books – Store book details (Title, Author, Publish Year).
+
 ✅ View Books – Display a list of all books in a structured layout.
+
 ✅ Update Books – Modify existing book details.
+
 ✅ Delete Books – Remove books from the database.
+
 ✅ Toast Notifications – Get real-time feedback on actions (success/errors).
+
 ✅ Responsive UI – Built with Tailwind CSS for a modern look.
+
 ✅ RESTful API – Node.js backend with Express & MongoDB.
 
 🛠️ Tech Stack
